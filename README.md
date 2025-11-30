@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm [Your Name]
+# Hello World! 👋 I'm msq2010
 
 A 12-year-old **programmer** from **Singapore** 🇸🇬 who loves building cool stuff with technology!
 
@@ -7,7 +7,7 @@ A 12-year-old **programmer** from **Singapore** 🇸🇬 who loves building cool
 ### 🚀 What I'm Up To
 
 -   🧠 **Learning:** I'm always trying to level up my coding skills and learn new things!
--   🤖 **Building:** Simple portfolios for my friends and some Roblox games
+-   🤖 **Building:** Simple portfolios for my friends and some Roblox games.
 -   🎯 **Goals:** To become an awesome software engineer and maybe even start my own tech company one day.
 
 ---
@@ -39,10 +39,8 @@ Here are the programming languages I know and use:
 
 Just for fun, here's a look at my GitHub activity!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
-*(Remember to replace `YOUR_GITHUB_USERNAME` with your actual GitHub username!)*
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=msq2010&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msq2010&layout=compact&theme=radical)
 
 ---
 
