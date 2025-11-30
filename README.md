@@ -45,9 +45,9 @@ A 12-year-old **passionate developer** from **Singapore** 🇸🇬 who loves tur
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msq2010&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=7c4dff&icon_color=7c4dff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msq2010&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=7c4dff)
-![GitHub Streak](https://streak-stats.demolab.com?user=msq2010&theme=radical&hide_border=true&background=0d1117&fire=7c4dff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msq2010&show_icons=true&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msq2010&layout=compact&hide_border=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msq2010&theme=radical&hide_border=true)
 
 </div>
 
