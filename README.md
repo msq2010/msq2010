@@ -7,7 +7,7 @@ A 12-year-old **programmer** from **Singapore** 🇸🇬 who loves building cool
 ### 🚀 What I'm Up To
 
 -   🧠 **Learning:** I'm always trying to level up my coding skills and learn new things!
--   🤖 **Building:** Simple portfolios for my friends and some Roblox games.
+-   🤖 **Building:** Fun projects, from Roblox games to useful tools.
 -   🎯 **Goals:** To become an awesome software engineer and maybe even start my own tech company one day.
 
 ---
@@ -39,15 +39,17 @@ Here are the programming languages I know and use:
 
 Just for fun, here's a look at my GitHub activity!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=msq2010&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msq2010&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=msq2010&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msq2010&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=msq2010&theme=radical&hide_border=true)
+
 
 ---
 
 ### 📫 How to Reach Me
 
 -   **Email:** [leegaole1302@gmail.com](mailto:leegaole1302@gmail.com)
--   **Discord:** [nioo900]
+-   **Discord:** [nioo900](https://discord.com/app)
 
 ---
 
