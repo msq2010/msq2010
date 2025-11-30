@@ -1,56 +1,81 @@
 # Hello World! 👋 I'm msq2010
 
-A 12-year-old **programmer** from **Singapore** 🇸🇬 who loves building cool stuff with technology!
+A 12-year-old **passionate developer** from **Singapore** 🇸🇬 who loves turning ideas into digital reality!
 
 ---
 
-### 🚀 What I'm Up To
+## 🚀 About Me
 
--   🧠 **Learning:** I'm always trying to level up my coding skills and learn new things!
--   🤖 **Building:** Fun projects, from Roblox games to useful tools.
--   🎯 **Goals:** To become an awesome software engineer and maybe even start my own tech company one day.
+-   🧠 **Currently Learning:** Advanced programming concepts and exploring new technologies
+-   🤖 **Building:** Creative projects ranging from Roblox games to practical automation tools
+-   🎯 **Future Goals:** Becoming a skilled software engineer and entrepreneurial innovator
+-   💡 **Philosophy:** Code with curiosity, build with purpose
 
 ---
 
-### 💻 My Tech Toolbox
+## 💻 Tech Stack & Proficiencies
 
-Here are the programming languages I know and use:
-
-| Language | What I Like About It |
+### Programming Languages
+| Language | Expertise & Application |
 | :--- | :--- |
-| `Python` 🐍 | Great for getting things done quickly and clearly. Perfect for automation and fun projects! |
-| `C` ⚙️ | Lets me talk directly to the computer. It's like the foundation of everything! |
-| `C++` 🚀 | Super powerful and fast. I use it when I need that extra speed and control. |
-| `SQL` 🗃️ | The language for talking to databases. It helps me organize and find data easily. |
+| `Python` 🐍 | **Scripting • Automation • Backend** - My go-to for rapid prototyping and practical solutions |
+| `C` ⚙️ | **Systems Programming • Embedded** - Understanding computing at its fundamental level |
+| `C++` 🚀 | **Performance-Critical Applications • Game Dev** - When speed and efficiency matter most |
+| `SQL` 🗃️ | **Database Management • Data Analysis** - Structuring and querying data effectively |
+
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=flat&logo=github)
+![Roblox Studio](https://img.shields.io/badge/Game_Dev-Roblox_Studio-00A2FF?style=flat&logo=roblox)
 
 ---
 
-### ⌨️ Here's What I'm Coding Lately
+## ⌨️ Current Coding Focus
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+code+in+Python!;And+also+C!;And+C+++too!;And+SQL!;Nice+to+meet+you!&font=Fira%20Code&center=true&width=440&height=45&color=7c4dff&vCenter=true&size=22&duration=4000&pause=1000)
+
+![Dynamic Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7C4DFF&center=true&vCenter=true&width=440&height=45&lines=Python+Automation+Projects;C%2B%2B+Game+Development;Database+Design;Open+Source+Contributions;Always+Learning+💡)
 
 </div>
 
 ---
 
-### 📈 My GitHub Stats
+## 📊 GitHub Analytics
 
-Just for fun, here's a look at my GitHub activity!
+<div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=msq2010&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msq2010&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=msq2010&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msq2010&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=7c4dff&icon_color=7c4dff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msq2010&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=7c4dff)
+![GitHub Streak](https://streak-stats.demolab.com?user=msq2010&theme=radical&hide_border=true&background=0d1117&fire=7c4dff)
 
-
----
-
-### 📫 How to Reach Me
-
--   **Email:** [leegaole1302@gmail.com](mailto:leegaole1302@gmail.com)
--   **Discord:** [nioo900](https://discord.com/app)
+</div>
 
 ---
 
-*Thanks for visiting my profile! Have an awesome day! 😄*
+## 🛠️ Featured Projects
+
+*🔜 Coming soon - Amazing projects in development!*
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-leegaole1302@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leegaole1302@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-nioo900-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/app)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **Fun Fact:** I believe every line of code tells a story!
+
+**Thanks for stopping by! Let's build something amazing together!** ✨
+
+![Visitor Count](https://komarev.com/ghpvc/?username=msq2010&color=7c4dff&style=flat-square)
+
+</div>
