@@ -19,8 +19,8 @@ A 12-year-old **passionate developer** from **Singapore** 🇸🇬 who loves tur
 | Language | Expertise & Application |
 | :--- | :--- |
 | `Python` 🐍 | **Scripting • Automation • Backend** - My go-to for rapid prototyping and practical solutions |
-| `C` ⚙️ | **Systems Programming • Embedded** - Understanding computing at its fundamental level |
-| `C++` 🚀 | **Performance-Critical Applications • Game Dev** - When speed and efficiency matter most |
+| `C` ⚙️ | **Systems Programming • Memory Management** - Understanding computing at its fundamental level |
+| `C++` 🚀 | **Performance Critical Applications • Competitive Programming** - When speed and efficiency matter most |
 | `SQL` 🗃️ | **Database Management • Data Analysis** - Structuring and querying data effectively |
 
 ### Tools & Platforms
